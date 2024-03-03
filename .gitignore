@@ -1,0 +1,2 @@
+# Bỏ qua file mysql.sock
+data/db/mysql/mysql.sock
